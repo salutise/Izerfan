@@ -26,7 +26,7 @@ export function Header() {
               alt="Izerfan Technologies Logo"
               width={280}
               height={84}
-              className="h-16 lg:h-20 w-auto"
+              unoptimized
               priority
             />
           </Link>

@@ -77,7 +77,7 @@ export function HeroSection() {
                 alt="Izerfan Technologies"
                 width={400}
                 height={400}
-                className="w-56 sm:w-72 lg:w-80 xl:w-96 h-auto"
+                unoptimized
                 priority
               />
             </div>

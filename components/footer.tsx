@@ -27,7 +27,7 @@ export function Footer() {
               alt="Izerfan Technologies"
               width={200}
               height={60}
-              className="h-16 w-auto"
+              unoptimized
             />
             <p className="mt-4 text-primary-foreground/70 text-sm leading-relaxed">
               Engineering digital futures for mid-size and large enterprises through 

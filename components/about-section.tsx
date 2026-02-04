@@ -47,7 +47,7 @@ export function AboutSection() {
                   alt="Izerfan Technologies"
                   width={200}
                   height={120}
-                  className="h-24 w-auto"
+                  unoptimized
                 />
               </div>
               <div className="grid grid-cols-2 gap-6">
